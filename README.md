@@ -7,69 +7,86 @@ The purpose of the project is to select (at least) one film from every European 
 - Armenia
 - Austria
 - Azerbaijan
+
 ##B
-Belarus
-Belgium
-Bosnia and Herzegovina
-Bulgaria
+- Belarus
+- Belgium
+- Bosnia and Herzegovina
+- Bulgaria
+
 ##C
-Croatia
-Cyprus
-Czech Republic
+- Croatia
+- Cyprus
+- Czech Republic
+
 ##D
-Denmark
+- Denmark
+
 ##E
-Estonia
+- Estonia
+
 ##F
-Finland
-France
+- Finland
+- France
+
 ##G
-Georgia
-Germany
-Greece
+- Georgia
+- Germany
+- Greece
 
 ##H
-Hungary
+- Hungary
+
 ##I
-Iceland
-Ireland
-Italy
+- Iceland
+- Ireland
+- Italy
+
 ##K
-Kazakhstan
-Kosovo
+- Kazakhstan
+- Kosovo
+
 ##L
-Latvia
-Liechtenstein
-Lithuania
-Luxembourg
+- Latvia
+- Liechtenstein
+- Lithuania
+- Luxembourg
+
 ##M
-Macedonia
-Malta
-Moldova
-Monaco
-Montenegro
+- Macedonia
+- Malta
+- Moldova
+- Monaco
+- Montenegro
+
 ##N
-Netherlands
-Norway
+- Netherlands
+- Norway
+
 
 ##P
-Poland
-Portugal
+- Poland
+- Portugal
+
 ##R
-Romania
-Russia
+- Romania
+- Russia
+
 ##S
-San Marino
-Serbia
-Slovakia
-Slovenia
-Spain
-Sweden
-Switzerland
+- San Marino
+- Serbia
+- Slovakia
+- Slovenia
+- Spain
+- Sweden
+- Switzerland
+
 ##T
-Turkey
+- Turkey
+
 ##U
-Ukraine
-United Kingdom
+- Ukraine
+- United Kingdom
+
 ##V
-Vatican City (Holy See)
+- Vatican City (Holy See)
