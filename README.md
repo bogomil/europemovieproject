@@ -2,11 +2,12 @@
 The purpose of the project is to select (at least) one film from every European country created in the last five years.	
 
 ## A
-Albania
-Andorra
-Armenia
-Austria
-Azerbaijan
+- Albania
+- Andorra
+- Armenia
+- Austria
+- Azerbaijan
+##B
 Belarus
 Belgium
 Bosnia and Herzegovina
