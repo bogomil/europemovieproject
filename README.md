@@ -29,7 +29,7 @@ The purpose of the project is to select (at least) one film from every European 
 
 ##D
 - Denmark
-	- (Jagten)[https://en.wikipedia.org/wiki/The_Hunt_%282012_film%29]
+	- [Jagten](https://en.wikipedia.org/wiki/The_Hunt_%282012_film%29)
 
 ##E
 - Estonia
