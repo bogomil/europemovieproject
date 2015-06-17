@@ -5,13 +5,19 @@ The purpose of the project is to select (at least) one film from every European 
 - Albania
 	- [Amaneti/The Last Wish](https://vimeo.com/106962618)
 - Andorra
+	- [The competition](http://thecompetitionmovie.com/)
 - Armenia
+	- [Sunrise over Lake Van](http://www.imdb.com/title/tt2022539/)
 - Austria
+	-[Paradise Trilogy](https://en.wikipedia.org/wiki/Paradise_trilogy)
 - Azerbaijan
+	- [Buta](http://www.imdb.com/title/tt2089642/)
 
 ##B
 - Belarus
+	-[Ya ne vernus](http://www.imdb.com/title/tt2637844/)
 - Belgium
+	- [The Giants/ Les géants](https://en.wikipedia.org/wiki/The_Giants_%28film%29)
 - Bosnia and Herzegovina
 - Bulgaria
 
@@ -19,17 +25,20 @@ The purpose of the project is to select (at least) one film from every European 
 - Croatia
 - Cyprus
 - Czech Republic
-	- [Jagten](http://www.imdb.com/title/tt2106476/)
+
 
 ##D
 - Denmark
+	- (Jagten)[https://en.wikipedia.org/wiki/The_Hunt_%282012_film%29]
 
 ##E
 - Estonia
+	-[Ya ne vernus](http://www.imdb.com/title/tt2637844/)
 
 ##F
 - Finland
 - France
+	- [Blue Is the Warmest Colour](https://en.wikipedia.org/wiki/Blue_Is_the_Warmest_Colour)
 
 ##G
 - Georgia
