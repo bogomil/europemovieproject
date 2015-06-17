@@ -9,13 +9,13 @@ The purpose of the project is to select (at least) one film from every European 
 - Armenia
 	- [Sunrise over Lake Van](http://www.imdb.com/title/tt2022539/)
 - Austria
-	-[Paradise Trilogy](https://en.wikipedia.org/wiki/Paradise_trilogy)
+	- [Paradise Trilogy](https://en.wikipedia.org/wiki/Paradise_trilogy)
 - Azerbaijan
 	- [Buta](http://www.imdb.com/title/tt2089642/)
 
 ##B
 - Belarus
-	-[Ya ne vernus](http://www.imdb.com/title/tt2637844/)
+	- [Ya ne vernus](http://www.imdb.com/title/tt2637844/)
 - Belgium
 	- [The Giants/ Les géants](https://en.wikipedia.org/wiki/The_Giants_%28film%29)
 - Bosnia and Herzegovina
@@ -33,7 +33,7 @@ The purpose of the project is to select (at least) one film from every European 
 
 ##E
 - Estonia
-	-[Ya ne vernus](http://www.imdb.com/title/tt2637844/)
+	- [Ya ne vernus](http://www.imdb.com/title/tt2637844/)
 
 ##F
 - Finland
