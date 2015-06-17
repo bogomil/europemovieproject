@@ -3,7 +3,7 @@ The purpose of the project is to select (at least) one film from every European 
 
 ## A
 - Albania
-	-[Amaneti/The Last Wish](https://vimeo.com/106962618)
+	- [Amaneti/The Last Wish](https://vimeo.com/106962618)
 - Andorra
 - Armenia
 - Austria
@@ -19,7 +19,7 @@ The purpose of the project is to select (at least) one film from every European 
 - Croatia
 - Cyprus
 - Czech Republic
-	-[Jagten](http://www.imdb.com/title/tt2106476/)
+	- [Jagten](http://www.imdb.com/title/tt2106476/)
 
 ##D
 - Denmark
@@ -44,12 +44,12 @@ The purpose of the project is to select (at least) one film from every European 
 - Iceland
 - Ireland
 - Italy
-	-[Sworn Virgin](http://www.imdb.com/title/tt3646344/)
+	- [Sworn Virgin](http://www.imdb.com/title/tt3646344/)
 
 ##K
 - Kazakhstan
 - Kosovo
-	-[HEROI/The HERO](https://vimeo.com/83902443)
+	- [HEROI/The HERO](https://vimeo.com/83902443)
 
 ##L
 - Latvia
@@ -87,7 +87,7 @@ The purpose of the project is to select (at least) one film from every European 
 - Slovenia
 - Spain
 - Sweden
-	-[Searching for Sugar Man](http://www.imdb.com/title/tt2125608/)
+	- [Searching for Sugar Man](http://www.imdb.com/title/tt2125608/)
 - Switzerland
 
 ##T
@@ -96,7 +96,7 @@ The purpose of the project is to select (at least) one film from every European 
 ##U
 - Ukraine
 - United Kingdom
-	-[Filth](http://www.imdb.com/title/tt1450321/)
+	- [Filth](http://www.imdb.com/title/tt1450321/)
 
 ##V
 - Vatican City (Holy See)
